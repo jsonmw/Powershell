@@ -1,10 +1,5 @@
-# CIS 360 - Jason Wild
-# Assignment #4
-
 # This Script helps view and manage information about users.
-
-# Defines the menu items
-
+# ---------------------------------------------------------#
 
 # Creates a new user
 function Create-NewUser {
